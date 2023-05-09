@@ -18,7 +18,7 @@ function LeaderboardPage() {
   return (
     <div className='container'>
       <div className='mx-auto my-5 w-3/5 rounded-lg bg-white p-8 shadow-xl'>
-        <h1 className='mb-8 text-xl font-bold lg:text-3xl'>User Leaderboards</h1>
+        <h1 className='mb-8 text-xl font-bold lg:text-3xl'>Users Leaderboards</h1>
         <div className='mb-2 flex items-center justify-between'>
           <h2 className='text-base font-semibold text-indigo-800 md:text-lg lg:text-xl'>User</h2>
           <h2 className='text-base font-semibold text-indigo-800 md:text-lg lg:text-xl'>Score</h2>
